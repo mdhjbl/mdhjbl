@@ -8,7 +8,7 @@
 - 🌱 Learning **Node.js**, **Docker**, & **Linux**
 - 💼 Competitive coder | **Codeforces** fan
 - 🎓 CS student @ **University of Yazd** | **C++** lover
-- ✍️ Frontend basics: **JS**, **CSS**, **HTML**
+- ✍️ Backend basics: **JS**, **MongoDb**, **Express.js**
 
 ![gif](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
 
